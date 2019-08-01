@@ -1,0 +1,5 @@
+
+squid:S1862"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(€λέ²
+Jsquid:S1068"5Remove this unused "roadServiceMonths" private field.(σΰ¨„
+Ysquid:S2583"DChange this condition so that it does not always evaluate to "false"(€λέ²
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(αδθ‚
